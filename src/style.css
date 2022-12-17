@@ -1,6 +1,7 @@
 /* styles go here */
 .input {
   margin-bottom: 10px;
+  display: block;
 }
 
 .input:last-child {
